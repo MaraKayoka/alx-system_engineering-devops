@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p grep -v '/$' sort -t/ -k2,2 -k1,1n tr '\n' ','; echo
+ls -p grep -v '/$' sort -t/ -k2,2 -k1,1n tr '\n' ',' echo
